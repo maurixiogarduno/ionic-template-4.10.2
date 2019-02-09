@@ -3,9 +3,13 @@ Plantilla ágil para el desarrollo de aplicaciones Web/iOS/Android con framework
 
 ## Instalación
 **Frontend**
+```bash
 cd frontend
 npm install
+```
 
 **Backend**
+```bash
 cd backend
 npm install
+
