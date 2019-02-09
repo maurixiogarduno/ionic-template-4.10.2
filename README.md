@@ -14,4 +14,10 @@ cd backend
 npm install
 ```
 
+**Dashboard**
+```bash
+cd dashboard
+npm install
+```
+
 ## Deploy
